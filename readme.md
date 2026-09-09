@@ -1,4 +1,4 @@
-Python 2D Physics Sandbox
+Python 2D Physics Simulator
 A 2D physics simulator built with Python, Pygame, and Pymunk. This sandbox lets you spawn various dynamic objects—including fully jointed ragdolls—into an environment with ramps and walls, and manipulate the gravity in real-time.
 
 Features
